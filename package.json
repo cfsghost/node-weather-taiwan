@@ -1,0 +1,27 @@
+{
+  "name": "weather-taiwan",
+  "version": "1.0.0",
+  "description": "fetch weather data for Taiwan",
+  "main": "./lib/weather-taiwan.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cfsghost/node-weather-taiwan.git"
+  },
+  "keywords": [
+    "weather",
+    "taiwan"
+  ],
+  "author": "Fred Chien <cfsghost@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cfsghost/node-weather-taiwan/issues"
+  },
+  "homepage": "https://github.com/cfsghost/node-weather-taiwan#readme",
+  "dependencies": {
+    "hyperquest": "^2.1.2",
+    "sax": "^1.2.1"
+  }
+}
