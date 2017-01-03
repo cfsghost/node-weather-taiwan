@@ -1,6 +1,6 @@
 {
   "name": "weather-taiwan",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "fetch weather data for Taiwan",
   "main": "./lib/weather-taiwan.js",
   "scripts": {
