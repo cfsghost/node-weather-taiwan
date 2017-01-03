@@ -22,6 +22,8 @@
   "homepage": "https://github.com/cfsghost/node-weather-taiwan#readme",
   "dependencies": {
     "hyperquest": "^2.1.2",
-    "sax": "^1.2.1"
+    "multipipe": "^1.0.2",
+    "sax": "^1.2.1",
+    "sax-stream": "^1.2.2"
   }
 }
